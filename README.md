@@ -1,7 +1,8 @@
-- ###   👋 Hi, I’m [Hari-Krishna-Moorthy!](https://Hari-Krishna-Moorthy.github.io)
+- ###  👋 Hi, I’m [Hari-Krishna-Moorthy!](https://Hari-Krishna-Moorthy.github.io)
 - ###  👀 I’m interested in Programming, Data Science
-- ### 🌱 I’m currently learning Bachelor of engineering
-- ### 📫 reach me by [harikrishnamoorthyt@yahoo.com!](mailto:harikrishnamoorthyt@yahoo.com)
+- ###  🌱 I’m currently learning Machine Learning, Data science and Django framework
+- ###  📚 Studing Bachelor of engineering in Computer Science
+- ###  📫 reach me by [harikrishnamoorthyt@yahoo.com!](mailto:harikrishnamoorthyt@yahoo.com)
 
 
 **Languages and Tools:**
