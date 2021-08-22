@@ -1,6 +1,6 @@
 <h1 align="center"> Hello Coder's   <img src="https://raw.githubusercontent.com/Hari-Krishna-Moorthy/Hari-Krishna-Moorthy/main/giphy.gif" width="29px">I'm Hari Krishna Moorthy </h1>
 
- <img align="right" alt="Programer" width="400"  src="https://raw.githubusercontent.com/Hari-Krishna-Moorthy/Hari-Krishna-Moorthy/main/Pair%20programming.gif">
+ <img align="right" alt="Programer" width="400"  src="https://raw.githubusercontent.com/Hari-Krishna-Moorthy/Hari-Krishna-Moorthy/main/Media/Telecommuting.gif">
 
   <ul>
   <li><b> 👀 I’m interested in Programming, Data Science</b></li>
@@ -34,6 +34,6 @@
 </p>
 
 
-</br></br>
+<br><br><br><br>
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
