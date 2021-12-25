@@ -5,7 +5,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/hari_krishna_moorthy-30302f?style=flat&logo=linkedin)](https://linkedin.com/in/hari-krishna-moorthy)
 [![twitter badge](https://img.shields.io/badge/@HariKrishnaMo13-30302f?style=flat&logo=twitter)](https://twitter.com/HariKrishnaMo13)
-[![Email Badge](https://img.shields.io/badge/harikrishnamoorthyt@yahoo.com-30302f?style=flat&logo=Yahoo&logo&Color=blueviolet)](mailto:harikrishnamoorthyt@yahoo.com)
+[![Mail me](https://img.shields.io/badge/Mail_me-30302f?logo=yahoo&logoColor=6a0dad)](mailto:harikrishnamoorthyt@yahoo.com)
 [![Github Badge](https://komarev.com/ghpvc/?username=Hari-Krishna-Moorthy&color=green&label=Github_Page)](https://github.com/Hari-Krishna-Moorthy/)
 [![Potfolio Badge](https://komarev.com/ghpvc/?username=Hari-Krishna-Moorthy-profile&color=green&label=Profile)](https://hari-krishna-moorthy.netlify.app/)
 
@@ -18,9 +18,9 @@
   <li><b>📫 reach me by <a href="mailto:harikrishnamoorthyt@yahoo.com"> harikrishnamoorthyt@yahoo.com </a> </b></li>
   </ul> 
 
-<h3 align="center">Languages and Tools</h3>
+<h1 align="center">Languages and Tools</h1>
 
-<h5 align="left">Programming Languages </h5>
+<h3 align="left">Programming Languages </h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -28,7 +28,7 @@
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <br></p>
-<h5 align="left">Query Languages</h5>
+<h3 align="left">Query Languages</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <br></p>
 
-<h5 align="left">Web Framework & Technologies</h5>
+<h3 align="left">Web Framework & Technologies</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -49,7 +49,7 @@
 <br></p>
 
 
-<h5 align="left">Data Science Technology</h5>
+<h3 align="left">Data Science Technology</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 <br></p>
-<h5 align="left">Operation System</h5>
+<h3 align="left">Operation System</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <br></p>
 
-<h5 align="left">IDE's & Text Editors</h5>
+<h3 align="left">IDE's & Text Editors</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
 </p>
 
-<h5 align="left">Other Tools</h5>
+<h3 align="left">Other Tools</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/apt-000030?style=for-the-badge&logoColor=green&logo=gnu-bash" />
